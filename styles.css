@@ -1,0 +1,24 @@
+header {
+    color: white;
+    background-color: lightblue;
+}
+
+.special {
+    color: navy;
+    background-color: yellow;
+}
+
+#footer {
+    background-color: darkgreen;
+    color: white;
+}
+
+ul li {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+ul li:hover {
+    background-color: #ddd;
+    color: #555;
+}
