@@ -1,0 +1,19 @@
+p.special {
+    background-color: yellow;
+    color: navy;
+}
+
+#footer {
+    background-color: darkgreen;
+    color: white;
+}
+
+nav li {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+nav li:hover {
+    background-color: #ddd;
+    color: #555;
+}
